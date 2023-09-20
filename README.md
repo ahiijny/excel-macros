@@ -1,3 +1,5 @@
+// I know this code is unreadable and bad but I wrote these in like 2015 and they still work so whatevs
+
 - yomu.bas: reading tracker VBA script
 	- bind PlusPlus() to Ctrl + M
 	- for sheet "Finput", assumed existing columns: "Title", "Fandom", "Ch", "Date", "Author", "Last Entry:" (with corresponding number in cell to right)
